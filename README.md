@@ -1,6 +1,6 @@
 <h1>🎬 Six Degrees of Hollywood</h1>
 
-<p>🧠 <strong>Can you guess how many steps separate Emma Watson from Jennifer Lawrence?</strong> 🧠</p>
+<p>🧠 <strong>Can you guess how many steps separate Emma Watson from Jennifer Lawrence?</strong> </p>
 
 <p>Ever wondered how closely connected your favorite actors are?  This project brings the famous "Six Degrees of Kevin Bacon" game to life, using machine intelligence to find the shortest path between any two hollywood actors.</p>
 

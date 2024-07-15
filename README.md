@@ -1,14 +1,12 @@
 <h1>🎬 Six Degrees of Hollywood</h1>
 
+<p>🧠 <strong>Can you guess how many steps separate Emma Watson from Jennifer Lawrence?</strong> 🧠</p>
+
 <p>Ever wondered how closely connected your favorite actors are?  This project brings the famous "Six Degrees of Kevin Bacon" game to life, using machine intelligence to find the shortest path between any two hollywood actors.</p>
 
 <h2>🌟 Project Description</h2>
 
 <p>This project uses search algorithms, to navigate through a database of actors and movies to find the shortest connection between any two Hollywood stars.</p>
-
-<p>🧠 <strong>Can you guess how many steps separate Emma Watson from Jennifer Lawrence?</strong> 🧠</p>
-
-<p>This isn't just a game; it's a window into the intricate network of Hollywood collaborations. As you explore, you're witnessing complex search algorithms in action, similar to those used in social network analysis and recommendation systems.</p>
 
 <h2>Features</h2>
 

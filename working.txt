@@ -1,0 +1,38 @@
+
+frontier = Queuefrontier()
+mid = people[source]['movies'][1]	
+start = Node(state=(mid,source), parent=none,action=0)
+frontier.add(start)
+
+while len(frontier) is not 0:
+	result = []
+	node = frontier.remove()
+	explored.append(node.state)
+	if node.state[1] == target:
+		result.append(node)
+	
+   	
+	for state in neighbour(node.state[1]):
+		if not frontier.contains_state(state) and state not in explored:
+			child = Node(state=state,parent=node,action=node.action+1)
+			frontier.add(child)
+	
+	
+if len(result)==0:
+	return None	
+optimum_paths = [node for node in result if node.action == (min(node.action for node in result))]
+optimum_node = optimum_paths[0]
+solution = []
+while optimum_node.parent is not none:
+ 	solution.append(optimum_node.state)
+	optimum_node = optimum_node.parent
+
+solution.reverse()
+return solution
+
+
+
+
+	
+		
+	

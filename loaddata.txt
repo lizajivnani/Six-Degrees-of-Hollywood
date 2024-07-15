@@ -1,0 +1,16 @@
+people.csv
+people-- {'pid': {'name':   ,'birthyear':   , 'movies':   } }
+names--{'name':{pids} }
+
+movies.csv 
+
+movies -- {'mid': {'title' : , 'year': , 'stars' : } }
+
+stars.csv  (person_ids and movie_ids are mapped in this file)
+
+people[person_id]['movies'].add(movie_id)
+movie[movie_id]['stars'].add(person_id)
+	
+
+
+

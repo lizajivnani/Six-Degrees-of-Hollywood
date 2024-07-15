@@ -4,6 +4,9 @@
 
 <p>Ever wondered how closely connected your favorite actors are?  This project brings the famous "Six Degrees of Kevin Bacon" game to life, using machine intelligence to find the shortest path between any two hollywood actors.</p>
 
+![image](https://github.com/user-attachments/assets/b66ce79c-7a07-43f6-aab0-b43a5062c31c)
+
+
 <h2>🌟 Project Description</h2>
 
 <p>This project uses search algorithms, to navigate through a database of actors and movies to find the shortest connection between any two Hollywood stars.</p>

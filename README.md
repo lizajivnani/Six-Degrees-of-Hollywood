@@ -35,8 +35,6 @@
   <li>Python 3.10 or higher</li>
 </ul>
 
-<h2>🚀 Installation</h2>
-
 
 
 <h2>🎬 Usage</h2>
@@ -47,3 +45,8 @@
 
 <p>Replace [directory] with either 'small' or 'large' to choose the dataset.</p>
 
+
+<h2>Acknowledgments</h2>
+
+<p>Information courtesy of IMDb. Used with permission. </p>
+ <p>This project was implemented as part of the coursework for Harvard University's CS50 Introduction to Artificial Intelligence with Python.</p>
